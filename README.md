@@ -11,3 +11,4 @@ Here's a little information about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Coffee ☕
 
+![Profile Views](https://komarev.com/ghpvc/?username=ivantrywicaksono&style=for-the-badge&label=PROFILE+VIEWS)
