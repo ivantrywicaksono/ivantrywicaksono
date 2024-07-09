@@ -3,9 +3,9 @@
 ## I'm Ivan Try Wicaksono
 
 Here's a little information about me:
-- 🔭 I’m currently working on competitive programming
+- 🔭 I’m currently working on android app development
 - 🌱 I’m currently learning software engineering
-- 👯 I’m looking to collaborate on web development
+- 👯 I’m looking to collaborate on competitive programming
 - 🤔 I’m looking for help with C++ and Java
 - 📫 How to reach me: DM me on IG [@ivantrywicaksono](https://instagram.com/ivantrywicaksono)
 - 😄 Pronouns: He/Him
